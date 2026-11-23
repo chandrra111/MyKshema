@@ -7,7 +7,7 @@ _Last updated: 2026-11-23_
 - Local folder `MyApps/MyKshema` held only the master prompt; there was no starter ZIP or source code.
 - GitHub `chandrra111/MyKshema` exists, is public and is **empty** (no branches). Nothing to preserve or merge.
 - Toolchain: Node 24.20, npm 12, Python 3.12.5, git 2.55. `gh` CLI not installed.
-- Built greenfield. Local git repo on `main` with milestone commits; **not pushed** (needs your approval and GitHub credentials).
+- Built greenfield. Milestone commits on `main`, **pushed to GitHub on 2026-11-23** (https://github.com/chandrra111/MyKshema).
 
 ## Completed
 
@@ -47,7 +47,6 @@ _Last updated: 2026-11-23_
 ## Pending / known limitations
 
 - [ ] **Not deployed.** Deployment files are prepared; no hosted URL exists yet.
-- [ ] **Not pushed to GitHub.** Waiting for approval; see the commands in `docs/DEPLOYMENT.md`.
 - [ ] Live OpenAI path implemented but **untested** (no key available).
 - [ ] No OCR engine. Scanned images use the manual-review flow unless live AI vision is configured.
 - [ ] Medicines added from a confirmed document are saved as `active` with no drug class, so class-based flags (duplicate class, interactions) don't apply to them until classified. Re-uploading an old prescription re-activates that medicine.
@@ -57,7 +56,6 @@ _Last updated: 2026-11-23_
 
 ## Blocked
 
-- GitHub publish: needs your go-ahead and credentials (`gh` not installed; git over HTTPS will prompt).
 - Hosted deployment: needs a Vercel account and a container host.
 
 ## Not production-ready

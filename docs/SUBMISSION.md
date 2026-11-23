@@ -19,7 +19,7 @@ _Prototype note for judges:_ the working prototype uses synthetic data, local JS
 
 ## 3. GitHub URL
 
-https://github.com/chandrra111/MyKshema (empty when last checked; see `DEPLOYMENT.md` to publish)
+https://github.com/chandrra111/MyKshema (public, `main` branch)
 
 ## 4. Demo video
 
