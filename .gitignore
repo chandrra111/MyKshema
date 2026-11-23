@@ -33,3 +33,4 @@ MyKshema_Claude_Code_Master_Prompt.txt
 
 # Hackathon templates / working files kept local
 *.pptx
+docs/submission/*.pdf
