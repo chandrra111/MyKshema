@@ -1,0 +1,61 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 648 >>
+stream
+BT
+/F1 10 Tf
+12 TL
+50 800 Td
+/F2 14 Tf
+(Prescription) Tj T*
+/F1 10 Tf T*
+(SYNTHETIC DEMO RECORD - FICTIONAL PATIENT - NOT FOR CLINICAL USE) Tj T*
+() Tj T*
+(Prescriber: Dr. Rohan Kulkarni \(fictional orthopaedic surgeon\)) Tj T*
+(Facility: Greenleaf Bone & Joint Clinic \(fictional\)) Tj T*
+(Date: 21/11/2026) Tj T*
+(Diagnosis: Early osteoarthritis, right knee) Tj T*
+(Allergies: Penicillin) Tj T*
+() Tj T*
+(Rx:) Tj T*
+(- Paracetamol 650 mg | Three times daily as needed | 10 days) Tj T*
+(- Glucosamine 1500 mg | Once daily | 8 weeks) Tj T*
+() Tj T*
+(Advice: physiotherapy, weight management. Avoid regular NSAID use given kidney function.) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Title (Sample prescription) /Producer (MyKshema synthetic demo) >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000956 00000 n 
+0000001026 00000 n 
+0000001101 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info 7 0 R >>
+startxref
+1187
+%%EOF
