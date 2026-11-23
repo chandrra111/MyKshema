@@ -42,7 +42,9 @@ _None yet._ Add only after deploying and testing.
 9. **Impact and scalability**: fewer repeated tests, safer prescribing, continuity of care across providers; scaling path: managed DB, object storage, IdP, ABDM interoperability, DPDP-aligned consent.
 10. **Roadmap**: OCR/vision extraction, FHIR/ABDM integration, verified doctor identity, clinical knowledge-base for interactions, multilingual assistant, clinical validation pilots.
 
-Deck file: build from the official *Build 2036 Prototype Submission Deck Template* and export to PDF under 5 MB (pending).
+**Deck file:** [`docs/submission/MyKshema_BUILD2036_Deck.pptx`](submission/MyKshema_BUILD2036_Deck.pptx). It uses the official *Build 2036 Prototype Submission Deck Template* layout (13 slides: the template's slots minus the optional cost slide and the blank "add as required" slide) with real app screenshots and a native latency chart. **PDF export still pending:** open the deck in PowerPoint → File → Export → Create PDF (expected well under 5 MB; the .pptx is 2.8 MB).
+
+Measured local API latency on the performance slide (30 requests each, 4-core laptop, demo-mode AI): timeline p50 9.1 ms / p95 13.8 ms; medications + flags 4.8 / 17.7; health trends 9.4 / 15.5; AI ask 18.6 / 25.9; AI clinical summary 24.5 / 31.8; upload + PDF extraction 45.9 / 63.2.
 
 ## 7. Form values (draft, not submitted)
 
@@ -57,4 +59,4 @@ Deck file: build from the official *Build 2036 Prototype Submission Deck Templat
 | GitHub | https://github.com/chandrra111/MyKshema |
 | Demo video | _pending recording_ |
 | Deployed URL | _pending deployment_ |
-| Deck | _pending PDF export_ |
+| Deck | `docs/submission/MyKshema_BUILD2036_Deck.pptx` (PDF export pending) |
