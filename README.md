@@ -28,6 +28,8 @@ MyKshema turns scattered prescriptions, lab reports, scans and consultation note
 
 See [PROJECT_STATUS.md](PROJECT_STATUS.md) for the detailed checklist.
 
+**Demo recording:** [docs/submission/my_kshema_demo.mp4](https://github.com/chandrra111/MyKshema/blob/main/docs/submission/my_kshema_demo.mp4)
+
 ## Quick start (local)
 
 Requires Python 3.11+ and Node 18.18+ (tested with Python 3.12.5 and Node 24). No database, no API keys.

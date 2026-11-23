@@ -51,7 +51,7 @@ _Last updated: 2026-11-23_
 - [ ] No OCR engine. Scanned images use the manual-review flow unless live AI vision is configured.
 - [ ] Medicines added from a confirmed document are saved as `active` with no drug class, so class-based flags (duplicate class, interactions) don't apply to them until classified. Re-uploading an old prescription re-activates that medicine.
 - [ ] Interaction table is a small curated demo subset, not a clinical knowledge base.
-- [ ] Demo video and screenshots: to be recorded from the running app (script in `docs/DEMO_SCRIPT.md`).
+- [x] Demo recording published: https://github.com/chandrra111/MyKshema/blob/main/docs/submission/my_kshema_demo.mp4 (10-second clip; full script in `docs/DEMO_SCRIPT.md`)
 - [x] 13-slide submission deck built on the official Build 2036 template: `docs/submission/MyKshema_BUILD2036_Deck.pptx`
 - [ ] Deck PDF export (PowerPoint could not be automated here; export manually: File → Export → Create PDF)
 - [ ] Confirm team name ("MyKshema") and team leader name on the deck's title slide

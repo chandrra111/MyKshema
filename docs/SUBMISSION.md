@@ -23,7 +23,9 @@ https://github.com/chandrra111/MyKshema (public, `main` branch)
 
 ## 4. Demo video
 
-Script and screen-recording sequence: [DEMO_SCRIPT.md](DEMO_SCRIPT.md). Video: _to be recorded from the running app._
+Recording: https://github.com/chandrra111/MyKshema/blob/main/docs/submission/my_kshema_demo.mp4 (10-second clip, MP4)
+
+Full 3–4 minute script and screen-recording sequence: [DEMO_SCRIPT.md](DEMO_SCRIPT.md).
 
 ## 5. Deployed URL
 
@@ -57,6 +59,6 @@ Measured local API latency on the performance slide (30 requests each, 4-core la
 | Brief | Section 1 |
 | Tech stack | Section 2 |
 | GitHub | https://github.com/chandrra111/MyKshema |
-| Demo video | _pending recording_ |
+| Demo video | https://github.com/chandrra111/MyKshema/blob/main/docs/submission/my_kshema_demo.mp4 |
 | Deployed URL | _pending deployment_ |
 | Deck | `docs/submission/MyKshema_BUILD2036_Deck.pptx` (PDF export pending) |
