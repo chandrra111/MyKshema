@@ -48,13 +48,17 @@ Synthetic demo data seeds itself on first start into `backend/data/` (JSON) and 
 
 ```powershell
 cd frontend
-npm install
-npm run dev
+npm install        # PowerShell blocks this? use npm.cmd install
+npm run dev        # or npm.cmd run dev
 ```
 
 Set `NEXT_PUBLIC_API_URL` (see `frontend/.env.example`) if the API is not at `http://localhost:8000`.
 
-Windows shortcuts: `scripts\run-backend.ps1`, `scripts\run-frontend.ps1`, `scripts\reset-demo-data.ps1`.
+### Windows one-click start
+
+Double-click **`scripts\start-all.cmd`**. It opens the API and the web app in two windows, then your browser at http://localhost:3000. Individual helpers: `scripts\run-backend.cmd`, `scripts\run-frontend.cmd`, `scripts\reset-demo-data.cmd` (each server script takes an optional port, e.g. `run-backend.cmd 8001`).
+
+> **"running scripts is disabled on this system"?** Many Windows machines block PowerShell `.ps1` scripts, and that includes `npm` itself when typed in PowerShell. Use the `.cmd` helpers above, or type `npm.cmd` instead of `npm` (for example `npm.cmd run dev`). No security setting needs changing. The `.ps1` helpers in `scripts\` are for machines that allow them.
 
 ### Demo accounts (all fictional, password `Demo@2036`)
 
