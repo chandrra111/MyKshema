@@ -30,3 +30,7 @@ Thumbs.db
 
 # Local working notes
 MyKshema_Claude_Code_Master_Prompt.txt
+
+# Hackathon templates / working files kept local
+*.pptx
+!docs/submission/*.pptx

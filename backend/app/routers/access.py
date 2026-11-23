@@ -19,7 +19,7 @@ from ..storage import get_repos
 
 router = APIRouter(tags=["doctor-connect"])
 
-SIM_NOTE = "Prototype simulation - not production identity verification or legally validated consent."
+SIM_NOTE = "Not production identity verification or legally validated consent."
 
 
 def _doctor_card(d: m.DoctorProfile, patient_id: str | None = None) -> dict:
